@@ -1,0 +1,49 @@
+form {
+    overflow: hidden;
+    position: relative;
+    height: 250px;
+}
+
+#mail, #question {
+    position: absolute;
+}
+
+#mail {
+    top: 17px;
+    left: 100px;
+}
+
+#question {
+    top: 57px;
+    left: 100px;
+}
+
+#button1 {
+    position: absolute;
+    top: 210px;
+    left: 440px;
+}
+
+form a {
+    width: 57px;
+    height: 22px;
+    background-image: url('images/bnormal.png');
+}
+
+form a:hover {
+    background-image: url('images/bhover.png');
+}
+
+form a:active {
+    background-image: url('images/bactive.png');
+}
+
+#mainbox li {
+    list-style: decimal;
+    margin-top: 7px;
+    margin-left: 40px;
+}
+
+textarea {
+    background-color: #FFFFBB;
+}

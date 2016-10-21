@@ -1,0 +1,14 @@
+ol li {
+    list-style: decimal;
+    margin-top: 10px;
+}
+
+#mainbox li img {
+    display: inline-block;
+    border:1px solid #96693F;
+    border-radius:2px;
+}
+
+#mainbox p:first-child {
+    color: rgb(160, 0, 0);
+}

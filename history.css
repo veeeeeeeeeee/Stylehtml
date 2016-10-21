@@ -1,0 +1,15 @@
+table, td {
+    border: 1px solid #5C2306;
+    border-radius: 2px;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#title td {
+    font-style: bold;
+}
